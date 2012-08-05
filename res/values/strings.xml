@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Storage_sync</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_storage_test">Storage_test</string>
+    <string name="setting">Settings</string>
+    <string name="exit">Exit</string>
+
+</resources>
